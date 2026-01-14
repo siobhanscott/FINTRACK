@@ -1,8 +1,8 @@
 # FINTRACK
 
-A modern, secure, and intelligent banking tracker application built with React, Tailwind CSS, and powerful data parsing tools.
+#### A modern, secure, and intelligent banking tracker application built with React, Tailwind CSS, and powerful data parsing tools.
 
-## Vercel Link: https://fintrack-nine-iota.vercel.app/
+#### Vercel Link: https://fintrack-nine-iota.vercel.app/
 
 
 ## Features
